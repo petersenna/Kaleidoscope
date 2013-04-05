@@ -1,0 +1,26 @@
+LLVM Kaleidoscope tutorial: http://llvm.org/docs/tutorial/LangImpl1.html
+
+git checkout Chapter2
+make
+./toy
+
+git checkout Chapter3
+make
+./toy
+
+git checkout Chapter4
+make
+./toy
+
+git checkout Chapter5
+make
+./toy
+
+git checkout Chapter6
+make
+./toy
+
+git checkout Chapter7
+make
+./toy
+
